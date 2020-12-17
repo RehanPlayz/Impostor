@@ -1,8 +1,8 @@
 version: "1"
 rules:
   - base: master
-    upstream: Impostor:master
+    upstream: AeonLucid:master
     mergeMethod: hardreset
   - base: dev
-    upstream: Impostor:dev
+    upstream: AeonLucid:dev
     mergeMethod: hardreset
